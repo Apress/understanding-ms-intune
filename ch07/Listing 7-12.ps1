@@ -1,0 +1,1 @@
+﻿"C:\Windows\Sysnative\WindowsPowerShell\v1.0\powershell.exe" -noprofile -executionpolicy Bypass -command "& { . .\ManageRSAT.ps1; Install-RSATCapabilites }"

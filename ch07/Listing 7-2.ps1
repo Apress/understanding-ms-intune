@@ -1,0 +1,1 @@
+﻿"C:\Windows\Sysnative\WindowsPowerShell\v1.0\PowerShell.exe" -noprofile -executionpolicy bypass -file .\myScript.ps1
